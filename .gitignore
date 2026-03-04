@@ -1,0 +1,35 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+.env.local
+
+# Dependencias
+node_modules/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de construcción
+dist/
+build/
+
+# Logs y reportes
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de imagen alternativos
+*.psd
+*.ai
+*.tif
+*.bmp
+
+# Archivos de usuario
+*.bak
+*.tmp
