@@ -225,6 +225,9 @@ body {
 .hero-title span {
     display: inline-block;
     animation: letterBounce 2.5s ease-in-out infinite;
+    -webkit-text-fill-color: #15be3f;
+    filter: hue-rotate(220deg);
+    color: #0fd059;
 }
 
 @keyframes letterBounce{
